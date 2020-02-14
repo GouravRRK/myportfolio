@@ -55,9 +55,9 @@ let resumeData = {
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
-      }*/
+      }*/ 
     ],
-    "skillsDescription":"Your skills here",
+     "skillsDescription":"Your skills here",
     "skills":[
       {
         "skillname":"HTML5"
